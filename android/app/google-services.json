@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770457327633",
+    "project_id": "walking-buddy-327103",
+    "storage_bucket": "walking-buddy-327103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770457327633:android:a63b75097fe3f4b8c039b0",
+        "android_client_info": {
+          "package_name": "com.example.walking_buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770457327633-lrim1fvpv9r0nu8ki9ojus6fm83n4d12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9q4MzjV0TGXRFbTZ5t3NJBZIMe0cj4EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770457327633-lrim1fvpv9r0nu8ki9ojus6fm83n4d12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
